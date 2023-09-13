@@ -1,10 +1,17 @@
 ### Hi there 👋
 
 
-- 🎓 I am a PhD student at the Faculty of Materials and Manufacturing, Beijing University of Technology. I am extremely fortunate to be advised Prof. Jianfeng Li. Before that, I studied as an undergraduate at School of Mechanical and Materials Engineering, North China University of Technology.
-- 🔬 I am broadly interested in Medical Robotics, Control Theory, and Machine Learning.
-- 🔎 These days, I am mostly drawn by the development of Diffusion Models. A topic that I am actively thinking about/working on is How to build effective physical human-robot interaction strategies through multimodal information.
-- 📫 How to reach me: zy19970 AT emails.bjut.edu.cn
+- 🎓 **About me**: I am a PhD student at the Faculty of Materials and Manufacturing, Beijing University of Technology. I am extremely fortunate to be advised by Prof. Jianfeng Li. Before that, I studied as an undergraduate at the School of Mechanical and Materials Engineering, North China University of Technology.
+
+- 🔬 **Research**: I am broadly interested in Medical Robotics, Control Theory, and Machine Learning.
+
+
+- 🔎 **Focus on**: These days, I am mostly drawn by the development of Diffusion Models. A topic that I am actively thinking about/working on is How to build effective physical human-robot interaction strategies through multimodal information.
+
+  
+- 📫 **How to reach me**: zy19970 AT emails.bjut.edu.cn
+
+
 - 💼 **I'm actively looking for a full-time position! Let's connect if you happen to know any good fittings.**
 
 ### 📜 Publications
