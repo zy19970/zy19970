@@ -10,9 +10,13 @@
 ### 📜 Publications
 >
 >Zhou Y, Li J, Dong M. Prediction of Actively Exerted Torque From Ankle Joint Complex Based on Muscle Synergy. IEEE Trans Ind Electron. 2024;71(2):1729-1737. doi:10.1109/tie.2023.3257380
+>
 >Li J, Zhou Y, Dong M, Rong X, Jiao R. Clinically oriented ankle rehabilitation robot with a novel  mechanism. Robotica. 2022;41(1):277-291. doi:10.1017/s026357472200128x
+>
 >Li J, Zhou Y, Dong M, Rong X. Isokinetic Muscle Strength Training Strategy of an Ankle Rehabilitation Robot Based on Adaptive Gain and Cascade PID Control. IEEE Trans Cogn Dev Syst. 2023;15(1):100-110. doi:10.1109/tcds.2022.3145998
+>
 >Li J, Zhou Y, Dong M, Jiao R, Jiang L. Estimation of muscle activation during ankle rehabilitation. 2021 IEEE International Conference on Real-time Computing and Robotics (RCAR). Published online 15 July 2021. doi:10.1109/rcar52367.2021.9517360
+>
 >Dong M, Zhou Y, Li J, et al. State of the art in parallel ankle rehabilitation robot: a systematic review. J NeuroEngineering Rehabil. 2021;18(1). doi:10.1186/s12984-021-00845-z
 >
 
