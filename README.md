@@ -7,7 +7,7 @@
 - 📫 How to reach me: zy19970 AT emails.bjut.edu.cn
 - 💼 **I'm actively looking for a full-time position! Let's connect if you happen to know any good fittings.**
 
-- 📜 Publications
+### 📜 Publications
 >
 >Zhou Y, Li J, Dong M. Prediction of Actively Exerted Torque From Ankle Joint Complex Based on Muscle Synergy. IEEE Trans Ind Electron. 2024;71(2):1729-1737. doi:10.1109/tie.2023.3257380
 >Li J, Zhou Y, Dong M, Rong X, Jiao R. Clinically oriented ankle rehabilitation robot with a novel  mechanism. Robotica. 2022;41(1):277-291. doi:10.1017/s026357472200128x
