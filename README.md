@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🎓 **About me**: I am a PhD student at the Faculty of Materials and Manufacturing, Beijing University of Technology. I am extremely fortunate to be advised by Prof. Jianfeng Li. Before that, I studied as an undergraduate at the School of Mechanical and Materials Engineering, North China University of Technology.
+- 🎓 **About me**: I am a PhD student at the College of Mechanical & Energy Engineering, Beijing University of Technology. I am extremely fortunate to be advised by Prof. Jianfeng Li. Before that, I studied as an undergraduate at the School of Mechanical and Materials Engineering, North China University of Technology.
 
 - 🔬 **Research**: I am broadly interested in Medical Robotics, Control Theory, and Machine Learning.
 
