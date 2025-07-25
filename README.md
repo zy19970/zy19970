@@ -20,13 +20,15 @@
 
 [2] **Zhou Y**, Li J, et al. An Online Estimating Framework for Ankle Actively Exerted Torque Under Multi-DOF Coupled Dynamic Motions via sEMG. **in** _IEEE Trans Neural Syst Rehabil Eng_. 2025;33:81-91. doi:10.1109/tnsre.2024.3515966
 
-[3] Li J, **Zhou Y**, Dong M, Rong X, Jiao R. Clinically oriented ankle rehabilitation robot with a novel  mechanism. **in** _Robotica_. 2022;41(1):277-291. doi:10.1017/s026357472200128x
+[3]Li, J, **Zhou Y**, Zuo, S, & Dong, M. Dynamically modulated robot compliance via online fuzzy neural networks for individualized ankle rehabilitation.  **in** _Applied Intelligence_. 2025;55(6), 411. doi:10.1007/s10489-025-06317-4
 
-[4] Li J, **Zhou Y**, Dong M, Rong X. Isokinetic Muscle Strength Training Strategy of an Ankle Rehabilitation Robot Based on Adaptive Gain and Cascade PID Control. **in** _IEEE Trans Cogn Dev Syst._ 2023;15(1):100-110. doi:10.1109/tcds.2022.3145998
+[4] Li J, **Zhou Y**, Dong M, Rong X, Jiao R. Clinically oriented ankle rehabilitation robot with a novel  mechanism. **in** _Robotica_. 2022;41(1):277-291. doi:10.1017/s026357472200128x
 
-[5] Li J, **Zhou Y**, Dong M, Jiao R, Jiang L. Estimation of muscle activation during ankle rehabilitation. **in** _2021 IEEE International Conference on Real-time Computing and Robotics_ (RCAR). Published online 15 July 2021. doi:10.1109/rcar52367.2021.9517360
+[5] Li J, **Zhou Y**, Dong M, Rong X. Isokinetic Muscle Strength Training Strategy of an Ankle Rehabilitation Robot Based on Adaptive Gain and Cascade PID Control. **in** _IEEE Trans Cogn Dev Syst._ 2023;15(1):100-110. doi:10.1109/tcds.2022.3145998
 
-[6] Dong M, **Zhou Y**, Li J, et al. State of the art in parallel ankle rehabilitation robot: a systematic review. **in** _J NeuroEngineering Rehabil_. 2021;18(1). doi:10.1186/s12984-021-00845-z
+[6] Li J, **Zhou Y**, Dong M, Jiao R, Jiang L. Estimation of muscle activation during ankle rehabilitation. **in** _2021 IEEE International Conference on Real-time Computing and Robotics_ (RCAR). Published online 15 July 2021. doi:10.1109/rcar52367.2021.9517360
+
+[7] Dong M, **Zhou Y**, Li J, et al. State of the art in parallel ankle rehabilitation robot: a systematic review. **in** _J NeuroEngineering Rehabil_. 2021;18(1). doi:10.1186/s12984-021-00845-z
 
 
 <!--
